@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MahaveerPatil
-- 👀 I’m interested in coding and development
-- 🌱 I’m currently practicing...
+- 🌱 I’m currently Working...
 - 📫 Reach me on 8310659343
 
 <!---
